@@ -19,6 +19,12 @@ This repository contains projects completed as part of the "Machine Learning wit
 3. Project 3: *Book Recommendation Engine using KNN*
    - Description: In this challenge, you will create a book recommendation algorithm using K-Nearest Neighbors.
    
+4. Project 4: *Linear Regression Health Costs Calculator*
+   - Description: In this challenge, you will predict healthcare costs using a regression algorithm.
+
+5. Project 5: *Neural Network SMS Text Classifier*
+   - Description: In this challenge, you need to create a machine learning model that will classify SMS messages as either "ham" or "spam". A "ham" message is a normal message sent by a friend. A "spam" message is an advertisement or a message sent by a company.
+
 ## Getting Started
 
 To run these projects locally or explore the code, follow the steps below:
