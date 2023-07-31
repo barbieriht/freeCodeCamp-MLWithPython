@@ -1,6 +1,6 @@
 # Machine Learning with Python Projects - freeCodeCamp
 
-![freeCodeCamp](https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/Copy-of-Untitled-Design--1--1.png)
+![freeCodeCamp](https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg)
 
 This repository contains projects completed as part of the "Machine Learning with Python" course from freeCodeCamp. The course covers various machine learning concepts and techniques, and the projects aim to demonstrate practical implementations of these concepts.
 
